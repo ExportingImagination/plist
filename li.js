@@ -1,1 +1,3 @@
-console.log("hejgit");
+function ruun(){
+  console.log("fuck")
+}
