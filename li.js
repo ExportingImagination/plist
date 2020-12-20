@@ -1,13 +1,15 @@
 plist =[
-         ['Fet', 'https://www.dropbox.com/s/20gcqoq9ftdrpxz/fet.flac?dl=0'],    
-         ['Bearem', 'https://www.dropbox.com/s/8x7wsfavro3sfsf/Bearem.flac?dl=0'],
+         ['Fet', 'https://www.dropbox.com/s/20gcqoq9ftdrpxz/fet.flac?dl=0'],         
          ['Ritalin', 'https://www.dropbox.com/s/r502une3zufg0wd/Ritalin.mp3?dl=0'],
          ['Aquanaut', 'https://www.dropbox.com/s/bluij4f1whx0kxi/Aquanaut.mp3?dl=0'],
          ['True Confession', 'https://www.dropbox.com/s/u483gzf1y2m456l/True%20Confessions.flac?dl=0'],
          ['Appel Flappen', 'https://www.dropbox.com/s/ouhrlzhzkayee67/Appel%20Flappen.mp3?dl=0'],
-         ['BDSM', 'https://www.dropbox.com/s/04zfbhdyc94bfat/BDSM.mp3?dl=0'],
+         ['Fields Of Sugar', 'https://www.dropbox.com/s/v5k7fppdnknqmwb/Fields%20Of%20Sugar.flac?dl=0'],
+       
 
         ]
+      //['BDSM', 'https://www.dropbox.com/s/04zfbhdyc94bfat/BDSM.mp3?dl=0'],
+          //['Bearem', 'https://www.dropbox.com/s/8x7wsfavro3sfsf/Bearem.flac?dl=0'],
         
       //   ['Something Chill', 'https://www.dropbox.com/s/c5hp4kmktz3l11l/SomethingChill.mp3?dl=0'],
      //    ['Deep Gtr', 'https://www.dropbox.com/s/98916672nxnuovc/Deep%20Gtr.mp3?dl=0'],
