@@ -5,6 +5,7 @@ plist =[
          ['Aquanaut', 'https://www.dropbox.com/s/bluij4f1whx0kxi/Aquanaut.mp3?dl=0'],
          ['True Confession', 'https://www.dropbox.com/s/u483gzf1y2m456l/True%20Confessions.flac?dl=0'],
          ['Appel Flappen', 'https://www.dropbox.com/s/ouhrlzhzkayee67/Appel%20Flappen.mp3?dl=0'],
+         ['BDSM', 'https://www.dropbox.com/s/04zfbhdyc94bfat/BDSM.mp3?dl=0'],
 
         ]
         
