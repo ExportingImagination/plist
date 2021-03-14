@@ -1,4 +1,5 @@
 plist =[
+          ['Flujut', 'https://www.dropbox.com/s/q3kz2b35iq0yhx6/Flujut.flac?dl=0'],     
          ['Fet', 'https://www.dropbox.com/s/20gcqoq9ftdrpxz/fet.flac?dl=0'],         
          ['Ritalin', 'https://www.dropbox.com/s/r502une3zufg0wd/Ritalin.mp3?dl=0'],
          ['Aquanaut', 'https://www.dropbox.com/s/bluij4f1whx0kxi/Aquanaut.mp3?dl=0'],
