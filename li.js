@@ -1,8 +1,8 @@
 plist =[
           ['Flujut', 'https://www.dropbox.com/s/4hj32pwejevl0xz/Arn%C3%B6%20Eken.mp3?dl=0'],     
-     //    ['Fet', 'https://www.dropbox.com/s/20gcqoq9ftdrpxz/fet.flac?dl=0'],         
-     //    ['Ritalin', 'https://www.dropbox.com/s/r502une3zufg0wd/Ritalin.mp3?dl=0'],
-    //     ['Aquanaut', 'https://www.dropbox.com/s/bluij4f1whx0kxi/Aquanaut.mp3?dl=0'],
+         ['Fet', 'https://www.dropbox.com/s/20gcqoq9ftdrpxz/fet.flac?dl=0'],         
+         ['Ritalin', 'https://www.dropbox.com/s/r502une3zufg0wd/Ritalin.mp3?dl=0'],
+         ['Aquanaut', 'https://www.dropbox.com/s/bluij4f1whx0kxi/Aquanaut.mp3?dl=0'],
     //     ['True Confession', 'https://www.dropbox.com/s/u483gzf1y2m456l/True%20Confessions.flac?dl=0'],
      //    ['Appel Flappen', 'https://www.dropbox.com/s/ouhrlzhzkayee67/Appel%20Flappen.mp3?dl=0'],
     //     ['Fields Of Sugar', 'https://www.dropbox.com/s/v5k7fppdnknqmwb/Fields%20Of%20Sugar.flac?dl=0'],
